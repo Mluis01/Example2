@@ -1,0 +1,6 @@
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\Ejercicio_Herencia.exe.config
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\Ejercicio_Herencia.exe
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\Ejercicio_Herencia.pdb
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\Ejercicio_Herencia.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\Ejercicio_Herencia.exe
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\Ejercicio_Herencia.pdb
