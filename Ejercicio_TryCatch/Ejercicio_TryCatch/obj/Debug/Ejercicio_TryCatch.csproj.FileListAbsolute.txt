@@ -1,0 +1,6 @@
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\bin\Debug\Ejercicio_TryCatch.exe.config
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\bin\Debug\Ejercicio_TryCatch.exe
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\bin\Debug\Ejercicio_TryCatch.pdb
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\obj\Debug\Ejercicio_TryCatch.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\obj\Debug\Ejercicio_TryCatch.exe
+C:\Users\hsbUser\Desktop\MARCELO\Ejercicio_TryCatch\Ejercicio_TryCatch\obj\Debug\Ejercicio_TryCatch.pdb
